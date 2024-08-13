@@ -13,6 +13,10 @@ run = lxterminal -e python3 (path to script)
 
 The path to script will look something like /home/name/.../k30.py
 
+4. Make sure that all requirements are satisfied (refer to requirements.txt)
+5. Edit the destination file in k30.py to point to whatever directory you want to save data to (I recommend making a folder in the code directory for storing all data)
+6. reboot
+
 Wiring Schematics:
 
 <img width="1327" alt="Screenshot 2024-08-13 at 11 30 02 AM" src="https://github.com/user-attachments/assets/7767787a-15c0-41ce-8aff-20ab013452ba">
