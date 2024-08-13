@@ -18,6 +18,8 @@ The path to script will look something like /home/name/.../k30.py
 6. Edit the destination file in k30.py to point to whatever directory you want to save data to (I recommend making a folder in the code directory for storing all data)
 7. reboot
 
+The program will run continuously in a loop, and turning the switch to an "on" position will start logging today. Turning the switch to the "off" position will stop the dataogging and the program will wait for the next switch pull to start logging data again. Ideally the switch should be mounted to something and states labeled. 
+
 Wiring Schematics:
 
 <img width="1327" alt="Screenshot 2024-08-13 at 11 30 02 AM" src="https://github.com/user-attachments/assets/7767787a-15c0-41ce-8aff-20ab013452ba">
