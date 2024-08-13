@@ -23,3 +23,6 @@ Wiring Schematics:
 <img width="1327" alt="Screenshot 2024-08-13 at 11 30 02 AM" src="https://github.com/user-attachments/assets/7767787a-15c0-41ce-8aff-20ab013452ba">
 
 <img width="1316" alt="Screenshot 2024-08-13 at 11 35 55 AM" src="https://github.com/user-attachments/assets/9c9c1ffa-8757-4b72-809f-14b458381a6e">
+
+<img width="1316" alt="Screenshot 2024-08-13 at 11 48 17 AM" src="https://github.com/user-attachments/assets/98e77b49-7974-4545-afa5-ead21a816733">
+
