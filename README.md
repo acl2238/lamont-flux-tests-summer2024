@@ -4,7 +4,7 @@ Instructions:
 
 To run the data collection program at startup on newer models (likely including the one you are using:
 1. Open terminal
-2. Type "nano ~/.config/wayfire.ini
+2. Type "nano ~/.config/wayfire.ini"
 3. Input these lines at the end of the file:
 
 [autostart]
