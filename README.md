@@ -8,6 +8,7 @@ To run the data collection program at startup on newer models (likely including 
 3. Input these lines at the end of the file:
 
 [autostart]
+
 run = lxterminal -e python3 (path to script)
 
 The path to script will look something like /home/name/.../k30.py
